@@ -8,4 +8,4 @@ function negativoPositivo(a) {
     }
 }
 negativoPositivo(30);
-negativoPositivo(-30);
+negativoPositivo(-100);
